@@ -1,0 +1,157 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    background-color: rgb(252, 235, 235);
+
+}
+
+
+.navbar button{
+    font-size: 3rem;
+}
+
+
+.mBtechTop{
+    margin: 2rem;
+}
+
+.mDiv1{
+    margin: 8rem 0 8rem 0;
+    text-align: center;
+    color:brown;
+}
+
+.mDiv1 h1{
+    font-weight: bolder;
+}
+
+.mDiv1 p{
+    font-size: 1.35rem;
+}
+
+.mDiv2 h2{
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 1em;
+}
+.mDiv2 p{
+    font-size: 1.3rem;
+    margin: 0 1rem 2rem 1.5rem;
+    text-align: initial;
+    padding-right: 1em;
+    padding-left: 1em;
+    word-spacing: 0.6rem;
+}
+.mDivYear{
+    font-size: 1.5rem;
+    margin: 0 0 2rem 1rem;
+}
+.mStyle{
+    font-size: 1.5rem;
+    margin: 1rem;
+    border-style: outset;
+    height: 4rem;
+    box-shadow: 20px 20px 50px 10px rgb(221, 221, 221) inset;
+    border-radius: 0.5rem;
+}
+.mStyle:hover{
+    border-style: inset;
+    box-shadow: 20px 20px 50px 15px grey;
+}
+
+.mStyle a{
+    text-decoration: none;
+    margin: 40%;
+}
+.mStyle a:hover{
+    border-style: outset;
+    box-shadow: 20px 20px 50px 10px rgb(182, 187, 202) inset;
+    border-radius: 0.5rem;
+}
+
+.mDivContainer{
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 1em;
+}
+
+.mTopDiv{
+    margin: 6rem;
+    text-align: center;
+}
+.mTopDiv h3{
+    margin: 1rem;
+}
+.mTopDiv h4{
+    margin: 2rem;
+}
+
+.mContactBtn{
+    text-align: center;
+
+}
+.mContactBtn1{
+    background-image: linear-gradient(to right, rgba(0, 110, 255, 0), rgba(0, 110, 255, 1));
+
+}
+.mContactBtn1 a{
+    text-decoration: none;
+    color: white;
+
+}
+.mContactBtn1 a:hover{
+    box-shadow: 20px 20px 50px 10px rgb(75, 150, 211) inset;
+}
+
+
+.mBtechYearh2{
+    text-align: center;
+    margin: 1.5rem;
+    font-weight:400;
+    font-size: 4rem;
+
+
+}
+.mBtechYearh3, .mBtechYearh5 {
+    color: red;
+    
+}
+.mBtechYearh3{
+    margin: 0 1rem 0 1rem;
+}
+.mBtechYearh5{
+    margin: 1rem;
+    margin-top: 0;
+}
+.mListBtechYear ol{
+    list-style: circle;   
+}
+
+.mListBtechYear li{
+    margin: 1.4rem 2rem 0.5rem 0;
+    font-size: 1.2rem;
+
+}
+.mPaymentForm{
+    margin: 1rem;
+}
+
+.card{
+    margin: 2rem;
+}
+.card-body{
+    background-color:rgba(243, 250, 252, 0.89);
+}
+.card-header{
+    background-color: lightgray;
+}
+
+
+.mFooter{
+    background-color: rgb(0,0,0);
+    margin-top: 5rem;
+    padding: 0;
+}
+.mFooterDiv{
+    padding: 0;
+}
