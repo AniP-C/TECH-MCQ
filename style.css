@@ -6,9 +6,9 @@ body{
 }
 
 
-.navbar button{
+/* .navbar button{
     font-size: 3rem;
-}
+} */
 
 
 .mBtechTop{
@@ -76,14 +76,15 @@ body{
 }
 
 .mTopDiv{
-    margin: 6rem;
     text-align: center;
+    margin-top: 6rem;
 }
 .mTopDiv h3{
-    margin: 1rem;
+    margin-top: 1rem;
 }
 .mTopDiv h4{
-    margin: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .mContactBtn{
